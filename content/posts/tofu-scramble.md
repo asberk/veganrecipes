@@ -1,10 +1,9 @@
 ---
 title: "Tofu Scramble"
-subtitle: "Working subtitle"
 description: "A particularly tasty rendition of tofu scramble high in B12"
 tags: [tofu-scramble]
 date: 2017-09-13T19:55:41-07:00
-draft: false
+draft: true
 ---
 
 Eventually a photo will go here. 

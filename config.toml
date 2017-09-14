@@ -7,7 +7,7 @@ PygmentsCodeFences = true
 Paginate = 5
 disqusShortname = "hpstrhugo"
 
-copyright = "Copyright Aaron Berk 2017. "
+copyright = "Copyright Aaron Berk 2017 · "
 
 [params]
 	subtitle = "A blog for vegan recipes that I make."
