@@ -6,19 +6,10 @@
     <description>Recent content in Tags on Vegan Recipe Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <copyright>Copyright Aaron Berk 2017. </copyright>
+    <copyright>Copyright Aaron Berk 2017 · </copyright>
     
 	<atom:link href="http://veganrecipes.aaronberk.ca/tags/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Tofu Scramble</title>
-      <link>http://veganrecipes.aaronberk.ca/tags/tofu-scramble/</link>
-      <pubDate>Wed, 13 Sep 2017 19:55:41 -0700</pubDate>
-      
-      <guid>http://veganrecipes.aaronberk.ca/tags/tofu-scramble/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>
