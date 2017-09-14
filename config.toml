@@ -1,0 +1,24 @@
+baseurl = "http://veganrecipes.aaronberk.ca"
+languageCode = "en-gb"
+title = "Vegan Recipe Blog"
+theme = "hpstr"
+pluralizelisttitles = false
+PygmentsCodeFences = true
+Paginate = 5
+disqusShortname = "hpstrhugo"
+
+copyright = "Copyright Aaron Berk 2017. "
+
+[params]
+	subtitle = "A blog for vegan recipes that I make."
+	[params.author]
+		name = "Aaron Berk"
+		avatar = "/images/avatar.jpg"
+		bio = "A vegan grad student living in Vancouver."
+		github = "asberk"
+	[params.image]
+	  feature = "/images/abstract-1.jpg"
+	  credit = "dargadgetz"
+	  creditlink = "http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/"
+
+
