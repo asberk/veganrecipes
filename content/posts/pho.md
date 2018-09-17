@@ -55,7 +55,8 @@ minutes, add some spinach for health reasons (yay iron).
 
 \* You can use more traditional sounding ingredients to flavour the broth:
 cloves, star anise, cinnamon, *etc.*, but these ingredients are staples of a
-garam masala spice mix, so I simply opted for the cheaper, easier option. 
+garam masala spice mix, so I simply opted for the cheaper, easier option that
+[comes with a few bonus flavours](https://www.wikiwand.com/en/Garam_masala).
 
 ### The Mushrooms
 
