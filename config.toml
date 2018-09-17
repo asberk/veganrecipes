@@ -5,9 +5,9 @@ theme = "hpstr"
 pluralizelisttitles = false
 PygmentsCodeFences = true
 Paginate = 5
-disqusShortname = "hpstrhugo"
+disqusShortname = ""
 
-copyright = "Copyright Aaron Berk 2017 · "
+copyright = "Copyright Aaron Berk 2018 · "
 
 [params]
 	subtitle = "A blog for vegan recipes that I make."
@@ -18,7 +18,7 @@ copyright = "Copyright Aaron Berk 2017 · "
 		github = "asberk"
 	[params.image]
 	  feature = "/images/abstract-1.jpg"
-	  credit = "dargadgetz"
-	  creditlink = "http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/"
+	  credit = ""
+	  creditlink = ""
 
 
