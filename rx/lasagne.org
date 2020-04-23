@@ -1,0 +1,73 @@
+* Lasagne
+
+ - [[https://www.avantgardevegan.com/recipes/lasagne/][Lasagne]]
+ - [[https://cookeatlivelove.com/making-a-tofu-ground-beef-substitute/][Tofu Ground Beef]]
+
+
+** Ingredients
+
+*** 1 Pack Dried Lasagna Sheets                                       :Pasta:
+
+*** 1 package extra firm tofu                                :TofuGroundBeef:
+
+*** 1/2 cup Butter                                                 :Bechamel:
+*** 4 cups Soy Milk/Oat Milk                                       :Bechamel:
+*** 1 Onion                                                        :Bechamel:
+ (peeled & cut into 8)
+
+*** Red Onion                                                          :Ragu:
+    :PROPERTIES:
+    :quantity: 1
+    :directions: finely sliced
+    :END:
+
+
+*** 3 cloves Garlic                                                    :Ragu:
+    :PROPERTIES:
+    :quantity: 3 cloves
+    :directions: mince
+    :END:
+
+*** 4 sticks Celery, finely sliced                                     :Ragu:
+*** 1 medium Aubergine, cubed                                          :Ragu:
+*** 1 Courgette, cubed                                                 :Ragu:
+
+*** 2 tins Chopped Tomatoes                                            :Ragu:
+*** 3 T Tomato Puree                                                   :Ragu:
+
+*** 1 T low-sodium soy sauce                                 :TofuGroundBeef:
+
+*** 2 T Balsamic Vinegar                                               :Ragu:
+
+*** 1 tsp chili powder                                       :TofuGroundBeef:
+
+*** 1 tsp garlic powder                                      :TofuGroundBeef:
+
+*** 1/2 tsp onion powder                                     :TofuGroundBeef:
+
+*** 1/2 tsp smoked paprika                                   :TofuGroundBeef:
+
+
+*** 1 T olive oil                                            :TofuGroundBeef:
+
+*** 2 T Olive Oil                                                      :Ragu:
+
+*** 1 heaped T Mixed Herb                                              :Ragu:
+*** 2 tsp Sea Salt                                                     :Ragu:
+*** 2 tsp Cracked Black Pepper                                         :Ragu:
+
+
+
+*** 1/2 cup Flour                                                  :Bechamel:
+
+*** 1 Bayleaf                                                      :Bechamel:
+*** Pinch Nutmeg                                                   :Bechamel:
+*** 1 tsp Sea Salt                                                 :Bechamel:
+*** 1 tsp Black Pepper Corns                                       :Bechamel:
+*** 1 cup Grated Vegan Cheese                                      :Bechamel:
+ (optional)
+*** 2 T nutritional yeast                                    :TofuGroundBeef:
+*** 2 T Nutritional Yeast                                          :Bechamel:
+ (optional)
+
+
