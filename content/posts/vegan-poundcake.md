@@ -14,9 +14,10 @@ draft: false
  * 1 cup sugar
  * zest of one orange/lime/lemon
  * 1/2 cup olive/coconut oil (liquid)
- * 2 flax eggs / 1 banana
+ * 2 flax eggs (2 tbsp flax meal and 6 tbsp water)
  * 1/2 cup vegan buttermilk
- * dash vanilla/almond extract/brandy
+ * 1 dash vanilla or almond extract
+ * 1 dash brandy
  * 1/4 tsp nutmeg
  * 1/4 tsp salt
  * 1/4 tsp baking soda
@@ -34,8 +35,11 @@ draft: false
 
 ## Directions
 
- Heat oven to 350 degrees and grease a loaf pan. In a big bowl, add a cup of
- sugar. Grate and whisk the zest into the bowl. 
+ Heat oven to 350 degrees and grease a loaf pan. To make the 2 flax eggs,
+ combine 2 T flax meal and 6 T water in a small dish. Refrigerate for at least 5
+ min. To make the vegan butter milk, mix 1/2 T lemon juice in 1/2 cup vegan
+ milk. In a big bowl, add a cup of sugar. Grate and whisk the zest into the
+ bowl.
  
  Add the wet ingredients to the bowl:
 
