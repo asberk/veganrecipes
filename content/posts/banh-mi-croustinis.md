@@ -42,6 +42,14 @@ draft: false
 
 ### For the baguette
 
+This recipe is something I've compiled from two different sources. The first is
+[this video](https://www.youtube.com/watch?v=4yp8UhNnj-w), which I drew on to
+figure out the baguette-specific components of the recipe: the folding, the
+resting times, the baking duration, *etc.* The other source is [this
+book](https://kensartisan.com/flour-water-salt-yeast) by Ken Forkish. While I
+haven't tried other books, I highly recommend this one as an effective
+introduction to making great bread.
+
 * Make a poolish the night before. Add 1/8 tsp instant yeast to 500 g bread
   flour in a 6 quart container and mix. Next, add 500 g water (with a
   temperature of roughly 30 degrees Celsius). Let sit 12 -- 14 hours or until 2
@@ -127,3 +135,5 @@ to absorb the flavour of the pickling solution.
   pickled veggies, and a few drops (or light drizzle) or sriracha.
   
 * Enjoy!
+
+
